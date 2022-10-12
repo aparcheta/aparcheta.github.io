@@ -16,10 +16,6 @@
     background-color: red;
     width: 100%;
 }
-.footer{
-    background-color: violet;
-    width: 100%;
-}
 
 .content{
     background-color: aqua;
@@ -33,6 +29,10 @@
 .aside-left{
     background-color: green;
     flex-basis: 25%;
+}
+.footer{
+    background-color: violet;
+    width: 100%;
 }
 
 
@@ -58,10 +58,8 @@
         flex-basis: 25%;
         order: 2;
     }
-    
     }
 
-}
 @media (max-width: 480px){
     .container{
         max-width: 100%;

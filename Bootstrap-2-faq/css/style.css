@@ -1,14 +1,13 @@
-.icon {
+orange{
     color: orange;
-    padding: 20px;
-    
-}
+};
 
 h1 {
-    color: grey;
+    color: gray;
     text-align: center;
-}
+};
+
 hr {
     color: gray;
     width: 200px;
-}
+};

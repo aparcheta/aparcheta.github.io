@@ -1,0 +1,19 @@
+.icon {
+    color: orange;
+    padding: 20px;
+    
+}
+.container {
+border-radius: 50%;
+border: 2px;
+border-color: black;
+}
+
+h1 {
+    color: grey;
+    text-align: center;
+}
+hr {
+    color: gray;
+    width: 200px;
+}

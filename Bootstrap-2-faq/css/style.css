@@ -1,13 +1,44 @@
-orange{
-    color: orange;
-};
+
 
 h1 {
-    color: gray;
-    text-align: center;
+    color: lightgray;
+    margin: auto;
 };
 
-hr {
-    color: gray;
+
+.linia {
+    border: 1px solid gray;
     width: 200px;
 };
+
+.accordion-button::after {
+    content: none !important;
+}
+
+.accordion-button {
+    text-align: center;
+    display: block;
+    color: orange;
+    background-color: lightgray;
+}
+
+.accordion {
+    margin: 20px auto;
+    max-width: 80%;
+  
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: lightgray;
+    color: orange;
+}
+
+
+.accordion-button:hover {
+    text-decoration: underline;
+    color: gray;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}

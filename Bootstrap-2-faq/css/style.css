@@ -1,44 +1,43 @@
-
-
-h1 {
+.header {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  h1 {
     color: lightgray;
-    margin: auto;
-};
-
-
-.linia {
-    border: 1px solid gray;
+    text-align: center;
+  }
+  
+  .linia {
     width: 200px;
-};
-
-.accordion-button::after {
+  }
+  
+  .accordion-button::after {
     content: none !important;
-}
-
-.accordion-button {
+  }
+  
+  .accordion-button {
     text-align: center;
     display: block;
     color: orange;
     background-color: lightgray;
-}
-
-.accordion {
+  }
+  
+  .accordion {
     margin: 20px auto;
     max-width: 80%;
+  }
   
-}
-
-.accordion-button:not(.collapsed) {
+  .accordion-button:not(.collapsed) {
     background-color: lightgray;
     color: orange;
-}
-
-
-.accordion-button:hover {
+  }
+  
+  .accordion-button:hover {
     text-decoration: underline;
     color: gray;
-}
-
-.accordion-button:focus {
+  }
+  
+  .accordion-button:focus {
     box-shadow: none;
-}
+  }

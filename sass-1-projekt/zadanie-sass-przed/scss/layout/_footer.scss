@@ -5,7 +5,7 @@
 	background-color: $color-footer;
 
 	.footer-above {
-		padding-top: $baseline * 2;
+		padding-top: 80px;
 
 		.margin-none {
 
@@ -49,6 +49,10 @@
 				a:hover {
 					color: $color-link-hover;
 				}
+			}
+
+			.fa-twitter, .fa-facebook, .fa-linkedin, .fa-google-plus {
+				font-size: 25px;
 			}
 		}
 

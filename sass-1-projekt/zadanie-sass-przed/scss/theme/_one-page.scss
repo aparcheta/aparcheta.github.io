@@ -39,7 +39,7 @@
 
     #counters-numbers, #counters-progress { 
         height: auto;  
-        width: 100%; 
+        width: 150px; 
         position: relative; 
         padding: ($baseline * 4) $padding-none;
 
@@ -137,9 +137,9 @@
                 height:100%;
                 opacity: 0;
                 background: $color-portfolio-hover;
-                -webkit-transition: all .35s;
-                -moz-transition: all .35s;
-                transition: all .35s;
+                -webkit-transition: all 1s;
+                -moz-transition: all 1s;
+                transition: all 1s;
 
                 .portfolio-box-caption-content {
                     position: absolute;
@@ -169,6 +169,8 @@
     #counters-services {
     background-color: $color-background;
     padding: ($baseline * 4) $padding-none $baseline;
+    width: 25px;
+    opacity: 50%;
 
         .icon-services {
             color: $color-primary;

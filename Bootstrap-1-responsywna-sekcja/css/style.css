@@ -12,3 +12,9 @@ hr {
     color: gray;
     width: 200px;
 }
+
+.circle {
+    border-radius: 50%;
+    background-color: lightgray;
+    border: 1px solid lightgray;
+}

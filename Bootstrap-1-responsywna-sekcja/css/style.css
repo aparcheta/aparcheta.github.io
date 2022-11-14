@@ -1,6 +1,5 @@
 .icon {
     color: orange;
-    padding: 20px;
     
 }
 
@@ -17,4 +16,7 @@ hr {
     border-radius: 50%;
     background-color: lightgray;
     border: 1px solid lightgray;
+    width: 100px;
+    height: 100px;
 }
+

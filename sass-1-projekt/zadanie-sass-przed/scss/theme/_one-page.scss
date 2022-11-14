@@ -179,7 +179,17 @@
             border-radius: 100%;
             line-height: $base-font-size * 4.5;
             border: 2px solid $color-primary;
+            transition: all 1s;
+
+            &:hover {
+
+                transform: rotate(-45deg);
+
+            }
+        
         }
+
+        
 
 
         .counters-box {

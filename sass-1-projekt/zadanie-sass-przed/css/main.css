@@ -10591,11 +10591,11 @@ body h6 {
   font-size: 16px;
 }
 body a {
-  color: #2eb6d1;
+  color: #a5e200;
   text-decoration: none;
 }
 body a:hover {
-  color: #238a9e;
+  color: #88ba00;
 }
 body .overlay {
   position: absolute;
@@ -10749,7 +10749,7 @@ header.header-image .header-content .header-content-inner h5 {
     margin-bottom: 0;
   }
   .header-contact ul .fa-twitter, .header-contact ul .fa-facebook, .header-contact ul .fa-linkedin, .header-contact ul .fa-google-plus {
-    color: #2eb6d1;
+    color: #a5e200;
   }
   .header-contact ul .fa-twitter:hover, .header-contact ul .fa-facebook:hover, .header-contact ul .fa-linkedin:hover, .header-contact ul .fa-google-plus:hover {
     color: #238a9e;
@@ -10774,7 +10774,7 @@ header.header-image .header-content .header-content-inner h5 {
   padding-bottom: 25px;
 }
 .navbar-default .navbar-nav button, .navbar-default .navbar-nav input[type=search] {
-  color: #2eb6d1;
+  color: #a5e200;
   display: block;
   padding: 5px;
   position: relative;
@@ -10791,23 +10791,23 @@ header.header-image .header-content .header-content-inner h5 {
   line-height: 41.6px;
 }
 .navbar-default .navbar-nav input[type=search]::-webkit-input-placeholder {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 .navbar-default .navbar-nav input[type=search]::-moz-placeholder {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 .navbar-default .navbar-nav input[type=search]:-moz-placeholder {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 .navbar-default .navbar-nav input[type=search]:-ms-input-placeholder {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 .navbar-default .navbar-nav .btn-search {
   border-right: 0;
   border-top: 0;
   border-bottom: 0;
   border-left: 1px solid #dddddd;
-  color: #2eb6d1;
+  color: #a5e200;
   background-color: transparent;
   margin-top: 5px;
 }
@@ -10885,7 +10885,7 @@ header.header-image .header-content .header-content-inner h5 {
     padding-bottom: 25px;
   }
   .navbar-default .navbar-nav button, .navbar-default .navbar-nav input[type=search] {
-    color: #2eb6d1;
+    color: #a5e200;
     display: block;
     padding: 5px;
     position: relative;
@@ -10902,23 +10902,23 @@ header.header-image .header-content .header-content-inner h5 {
     line-height: 41.6px;
   }
   .navbar-default .navbar-nav input[type=search]::-webkit-input-placeholder {
-    color: #2eb6d1;
+    color: #a5e200;
   }
   .navbar-default .navbar-nav input[type=search]::-moz-placeholder {
-    color: #2eb6d1;
+    color: #a5e200;
   }
   .navbar-default .navbar-nav input[type=search]:-moz-placeholder {
-    color: #2eb6d1;
+    color: #a5e200;
   }
   .navbar-default .navbar-nav input[type=search]:-ms-input-placeholder {
-    color: #2eb6d1;
+    color: #a5e200;
   }
   .navbar-default .navbar-nav .btn-search {
     border-right: 0;
     border-top: 0;
     border-bottom: 0;
     border-left: 1px solid #dddddd;
-    color: #2eb6d1;
+    color: #a5e200;
     background-color: transparent;
     margin-top: 5px;
   }
@@ -11046,10 +11046,10 @@ header.header-image .header-content .header-content-inner h5 {
   text-decoration: none;
 }
 .t108-sidebar a:hover {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 .t108-sidebar .btn-default:hover {
-  border-color: #2eb6d1;
+  border-color: #a5e200;
 }
 .t108-sidebar form .search {
   padding-right: 0;
@@ -11089,7 +11089,7 @@ header.header-image .header-content .header-content-inner h5 {
   opacity: 1;
 }
 .carousel .carousel-control .icon-prev, .carousel .carousel-control .icon-next {
-  background-color: #2eb6d1;
+  background-color: #a5e200;
   width: 40px;
   height: 40px;
   font-size: 32px;
@@ -11363,7 +11363,7 @@ header.header-image .header-content .header-content-inner h5 {
   background-color: #222222;
 }
 .t108-footer .footer-above {
-  padding-top: 48px;
+  padding-top: 80px;
 }
 .t108-footer .footer-above .margin-none p {
   margin-bottom: 0;
@@ -11384,22 +11384,25 @@ header.header-image .header-content .header-content-inner h5 {
 }
 .t108-footer .footer-above .footer-col .contact a:hover p, .t108-footer .footer-above .footer-col .tweets a:hover p {
   margin: 0;
-  color: #2eb6d1;
+  color: #a5e200;
 }
 .t108-footer .footer-above .footer-col .contact .fa-twitter, .t108-footer .footer-above .footer-col .tweets .fa-twitter {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 .t108-footer .footer-above .footer-col .tweets a:hover {
-  color: #238a9e;
+  color: #88ba00;
+}
+.t108-footer .footer-above .footer-col .fa-twitter, .t108-footer .footer-above .footer-col .fa-facebook, .t108-footer .footer-above .footer-col .fa-linkedin, .t108-footer .footer-above .footer-col .fa-google-plus {
+  font-size: 25px;
 }
 .t108-footer .footer-above a {
   text-decoration: none;
 }
 .t108-footer .footer-above a:hover {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 .t108-footer .footer-above .btn-default:hover {
-  border-color: #2eb6d1;
+  border-color: #a5e200;
 }
 .t108-footer h1, .t108-footer h2, .t108-footer h3, .t108-footer h4, .t108-footer h5, .t108-footer h6 {
   color: #979797;
@@ -11436,8 +11439,8 @@ header.header-image .header-content .header-content-inner h5 {
 /*==========  5.1 - Buttons  ==========*/
 .btn-primary {
   color: #ffffff;
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
   text-transform: uppercase;
   padding: 10px 12px;
   margin-bottom: 24px;
@@ -11447,8 +11450,8 @@ header.header-image .header-content .header-content-inner h5 {
 
 .btn-primary:hover {
   color: #ffffff;
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 
 .btn-default {
@@ -11466,16 +11469,16 @@ header.header-image .header-content .header-content-inner h5 {
 
 .btn-success {
   color: #ffffff;
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
   text-transform: uppercase;
   padding: 10px 12px;
 }
 
 .btn-success:hover {
   color: #ffffff;
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 
 /***/
@@ -11489,7 +11492,7 @@ hr {
 
 hr.divider-light-dark {
   max-width: 79.2px;
-  border-color: #2eb6d1;
+  border-color: #a5e200;
   border-width: 3px;
 }
 
@@ -11601,23 +11604,23 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   text-decoration: none;
 }
 #blog a:hover h4 {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 #blog .pager {
   margin-bottom: 0;
   margin-top: 48px;
 }
 #blog .pager a {
-  color: #2eb6d1;
-  border-color: #2eb6d1;
+  color: #a5e200;
+  border-color: #a5e200;
   background-color: #ffffff;
   border-radius: 4px;
   padding: 6px 12px;
   width: 108px;
 }
 #blog .pager a:hover {
-  color: #238a9e;
-  border-color: #238a9e;
+  color: #88ba00;
+  border-color: #88ba00;
   background-color: #ffffff;
 }
 #blog .btn-primary {
@@ -11645,7 +11648,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   height: 72px;
   border-radius: 100%;
   line-height: 72px;
-  background-color: #2eb6d1;
+  background-color: #a5e200;
   margin: 0 auto 24px;
 }
 @media (max-width: 768px) {
@@ -11655,7 +11658,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
 }
 .t108-one-page #counters-numbers, .t108-one-page #counters-progress {
   height: auto;
-  width: 100%;
+  width: 150px;
   position: relative;
   padding: 96px 0;
 }
@@ -11682,7 +11685,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   margin: 24px auto;
 }
 .t108-one-page #counters-numbers .container .counters-box .text-primary, .t108-one-page #counters-progress .container .counters-box .text-primary {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 .t108-one-page #counters-numbers {
   background: url(../images/counters/counters_numbers.jpg) no-repeat 50% 0 fixed;
@@ -11736,9 +11739,9 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   height: 100%;
   opacity: 0;
   background: rgba(34, 34, 34, 0.8);
-  -webkit-transition: all 0.35s;
-  -moz-transition: all 0.35s;
-  transition: all 0.35s;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  transition: all 1s;
 }
 .t108-one-page #portfolio .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
   position: absolute;
@@ -11751,7 +11754,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   padding: 0 15px;
 }
 .t108-one-page #portfolio .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name h6 {
-  color: #2eb6d1;
+  color: #a5e200;
   padding: 0 15px;
 }
 .t108-one-page #portfolio .portfolio-box:hover .portfolio-box-caption {
@@ -11760,14 +11763,20 @@ form fieldset input[name=comment], form fieldset input[name=message] {
 .t108-one-page #counters-services {
   background-color: #f7f7f7;
   padding: 96px 0 24px;
+  width: 25px;
+  opacity: 50%;
 }
 .t108-one-page #counters-services .icon-services {
-  color: #2eb6d1;
+  color: #a5e200;
   width: 72px;
   height: 72px;
   border-radius: 100%;
   line-height: 72px;
-  border: 2px solid #2eb6d1;
+  border: 2px solid #a5e200;
+  transition: all 1s;
+}
+.t108-one-page #counters-services .icon-services:hover {
+  transform: rotate(-45deg);
 }
 .t108-one-page #counters-services .counters-box {
   margin: 0 auto 72px;
@@ -11806,7 +11815,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   text-decoration: none;
 }
 .t108-one-page #services .thumbnail .caption a h5:hover {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 .t108-one-page #team {
   padding: 24px 0;
@@ -11835,7 +11844,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   transition: all 0.3s;
 }
 .t108-one-page #team .container ul.social-buttons li a:hover, .t108-one-page #team .container ul.social-buttons li a:focus, .t108-one-page #team .container ul.social-buttons li a:active {
-  background-color: #2eb6d1;
+  background-color: #a5e200;
 }
 @media (max-width: 768px) {
   .t108-one-page #team .container ul.social-buttons {
@@ -11866,7 +11875,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
 }
 #single-post .comment p .fa-fw {
   font-size: 8px;
-  color: #2eb6d1;
+  color: #a5e200;
   width: 16px;
   font-variant: super;
 }
@@ -11945,8 +11954,8 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   border-radius: 0px 8px 8px 0px;
   -moz-border-radius: 0px 8px 8px 0px;
   -webkit-border-radius: 0px 8px 8px 0px;
-  border: 1px solid #2eb6d1;
-  background-color: #2eb6d1;
+  border: 1px solid #a5e200;
+  background-color: #a5e200;
 }
 #error-404 form .submit input[type=submit]:hover {
   background-color: #238a9e;
@@ -11979,8 +11988,8 @@ form fieldset input[name=comment], form fieldset input[name=message] {
     border-radius: 0px 8px 8px 0px;
     -moz-border-radius: 0px 8px 8px 0px;
     -webkit-border-radius: 0px 8px 8px 0px;
-    border: 1px solid #2eb6d1;
-    background-color: #2eb6d1;
+    border: 1px solid #a5e200;
+    background-color: #a5e200;
   }
   #error-404 form .submit input[type=submit]:hover {
     background-color: #238a9e;
@@ -12019,7 +12028,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   color: #5b5b5b;
 }
 #contact a:hover {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 #contact p {
   margin-bottom: 0;
@@ -12028,7 +12037,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
 #contact .fa {
   margin-top: 24px;
   font-size: 16px;
-  color: #2eb6d1;
+  color: #a5e200;
 }
 
 @media (min-width: 768px) and (max-width: 992px) {
@@ -12062,7 +12071,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   text-transform: none;
 }
 #typography .blockquotes blockquote {
-  border-color: #2eb6d1;
+  border-color: #a5e200;
 }
 #typography .blockquotes blockquote h4, #typography .blockquotes blockquote h6 {
   font-family: "Lato Light", Helvetica, sans-serif;
@@ -12153,7 +12162,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   margin-top: 24px;
 }
 #common-elements .font-awesome .fa {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 #common-elements .toggles {
   margin-bottom: 24px;
@@ -12222,15 +12231,15 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   color: #222222;
 }
 #common-elements .messages-boxes .box-blue {
-  border-color: #2eb6d1;
-  background-color: #2eb6d1;
+  border-color: #a5e200;
+  background-color: #a5e200;
   color: #ffffff;
 }
 #common-elements .list-elements {
   margin-top: 24px;
 }
 #common-elements .list-elements .fa {
-  color: #2eb6d1;
+  color: #a5e200;
   width: 32px;
   font-size: 16px;
 }
@@ -12265,7 +12274,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   margin: 48px auto 24px;
 }
 #icon-variants .about-columns .icon-about-blue {
-  background-color: #2eb6d1;
+  background-color: #a5e200;
 }
 #icon-variants .about-columns .icon-about-bright {
   background-color: #dddddd;
@@ -12286,8 +12295,8 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   line-height: 72px;
 }
 #icon-variants .gallery-columns .icon-services-blue {
-  color: #2eb6d1;
-  border: 2px solid #2eb6d1;
+  color: #a5e200;
+  border: 2px solid #a5e200;
 }
 #icon-variants .gallery-columns .icon-services-bright {
   color: #dddddd;
@@ -12305,7 +12314,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   border-width: 3px;
 }
 #icon-variants .gallery-columns .divider-light-blue {
-  border-color: #2eb6d1;
+  border-color: #a5e200;
 }
 #icon-variants .gallery-columns .divider-light-bright {
   border-color: #dddddd;
@@ -12346,7 +12355,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   margin-bottom: 48px;
 }
 #interactive-elements #counters-numbers .counters-box .fa, #interactive-elements #counters-progress .counters-box .fa {
-  color: #2eb6d1;
+  color: #a5e200;
 }
 #interactive-elements #counters-numbers .counters-box h1, #interactive-elements #counters-progress .counters-box h1 {
   font-size: 58px;
@@ -12377,12 +12386,12 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   }
 }
 #interactive-elements #buttons .buttons-round .btn-primary, #interactive-elements #buttons .buttons-round .btn-success {
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
 }
 #interactive-elements #buttons .buttons-round .btn-primary:hover, #interactive-elements #buttons .buttons-round .btn-success:hover {
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
 }
 #interactive-elements #buttons .buttons-round .btn-primary {
   width: 156px;
@@ -12392,12 +12401,12 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   font-size: 13px;
 }
 #interactive-elements #buttons .buttons-round .buttons-hover .btn-primary, #interactive-elements #buttons .buttons-round .buttons-hover .btn-success {
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
 }
 #interactive-elements #buttons .buttons-round .buttons-hover .btn-primary:hover, #interactive-elements #buttons .buttons-round .buttons-hover .btn-success:hover {
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 @media (max-width: 768px) {
   #interactive-elements #buttons .buttons-round {
@@ -12426,13 +12435,13 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   }
 }
 #interactive-elements #buttons .rectangle-buttons .btn-primary, #interactive-elements #buttons .rectangle-buttons .btn-success {
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
   border-radius: 0px;
 }
 #interactive-elements #buttons .rectangle-buttons .btn-primary:hover, #interactive-elements #buttons .rectangle-buttons .btn-success:hover {
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
 }
 #interactive-elements #buttons .rectangle-buttons .btn-primary {
   width: 156px;
@@ -12442,13 +12451,13 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   font-size: 13px;
 }
 #interactive-elements #buttons .rectangle-buttons .buttons-hover .btn-primary, #interactive-elements #buttons .rectangle-buttons .buttons-hover .btn-success {
-  background-color: #2eb6d1;
-  border-color: #2eb6d1;
+  background-color: #a5e200;
+  border-color: #a5e200;
   border-radius: 0px;
 }
 #interactive-elements #buttons .rectangle-buttons .buttons-hover .btn-primary:hover, #interactive-elements #buttons .rectangle-buttons .buttons-hover .btn-success:hover {
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 @media (max-width: 768px) {
   #interactive-elements #buttons .rectangle-buttons {

@@ -21,11 +21,15 @@ body {
 
 	h1 {
 		font-size: $base-font-size + 38;
+		text-transform: uppercase !important;
 		letter-spacing: 4px;
-		text-transform: uppercase;
 
+	}
+
+	.carousel-caption {
 		p {
-			text-transform: uppercase;
+			text-transform: uppercase !important;
+
 		}
 	}
 

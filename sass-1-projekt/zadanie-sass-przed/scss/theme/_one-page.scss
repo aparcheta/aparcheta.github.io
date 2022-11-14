@@ -39,7 +39,7 @@
 
     #counters-numbers, #counters-progress { 
         height: auto;  
-        width: 150px; 
+        width: 100%; 
         position: relative; 
         padding: ($baseline * 4) $padding-none;
 
@@ -169,8 +169,6 @@
     #counters-services {
     background-color: $color-background;
     padding: ($baseline * 4) $padding-none $baseline;
-    width: 25px;
-    opacity: 50%;
 
         .icon-services {
             color: $color-primary;
@@ -186,10 +184,7 @@
                 transform: rotate(-45deg);
 
             }
-        
         }
-
-        
 
 
         .counters-box {

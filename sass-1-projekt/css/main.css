@@ -11364,11 +11364,8 @@ header.header-image .header-content .header-content-inner h5 {
 .t108-footer {
   background-color: #222222;
 }
-.t108-footer .footer-below .btn-social {
-  font-size: 25px;
-}
 .t108-footer .footer-above {
-  padding-top: 80px;
+  padding-top: 48px;
 }
 .t108-footer .footer-above .margin-none p {
   margin-bottom: 0;
@@ -11498,7 +11495,7 @@ hr.divider-light-dark {
 
 hr.divider-light {
   border-color: #ffffff;
-  max-width: 150px;
+  max-width: 79.2px;
   border-width: 3px;
 }
 
@@ -11783,8 +11780,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   margin-bottom: 0;
 }
 .t108-one-page #counters-services .counters-box .divider-light-dark {
-  width: 25px;
-  opacity: 0.5;
+  width: 48px;
   margin-left: 0;
   margin-bottom: 20px;
 }

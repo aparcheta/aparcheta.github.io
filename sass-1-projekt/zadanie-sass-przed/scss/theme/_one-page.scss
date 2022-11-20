@@ -195,7 +195,8 @@
             }
 
             .divider-light-dark {
-                width: $baseline * 2;
+                width: 25px;
+                opacity: 0.5;
                 margin-left: $padding-none;
                 margin-bottom: 20px;
             }

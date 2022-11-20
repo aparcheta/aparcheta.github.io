@@ -1,0 +1,55 @@
+.main-nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    background-color: white;
+    padding: 12px 0px;
+
+
+    .main-nav-holder {
+        @include flexbox;
+        justify-content: space-between;
+
+    }
+
+
+    .brand{
+        display: inline-block;
+        height: 50px;
+
+        img {
+            height: 100%;
+
+        }
+    }
+
+    %mobile-controls {
+        font-size: 28px;
+        line-height: 50px;
+        cursor: pointer;
+    }
+
+    .mobile-hamburger {
+        @extend %mobile-controls;
+        color: $primary-color;
+    }
+
+    .mobile-close {
+        @extend %mobile-controls;
+        color: white;
+        height: 50px;
+        text-align: right;
+    }
+
+    .open-menu-holder {
+        position: fixed;
+        background-color: $primary-color;
+        top: 0;
+        right: 0;
+        max-width: 480px;
+        text-align: right;
+        padding: 12px 23px;
+    
+    }
+}
